@@ -1,0 +1,9 @@
+Les commandes utilisés dans l'atelier:
+	git status : Avoir la différence entre mon depot et celui hébérger au serveur de git
+	git add -A : Ajouter de nouveaux fichiers ou des fihiers existants modifiés
+	git commit : Créer un checkpoint 
+	git push : Envoi des mise à jour des projets au serveur GitHub
+	git pull : Récuperer la dernière version du dépot
+	git branch new_branch : Création d'une nouvelle branche
+	git checkout name_branch : Se déplacer d'une branche à une autre
+	git merge master : Fusionner la branche master avec la branche actuelle (celle dont l'utilisateur pointe)
